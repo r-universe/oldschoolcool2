@@ -1,0 +1,10 @@
+{
+  "id": 143826706,
+  "created_at": "2026-07-01T21:14:23.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["rust-tte"]
+}
