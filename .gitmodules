@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/oldschoolcool2/oldschoolcool2.r-universe.dev
 	branch = HEAD
+[submodule "tters"]
+	path = tters
+	url = https://github.com/oldschoolcool2/rust-tte
+	subdir = bindings/tters
